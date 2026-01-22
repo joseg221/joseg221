@@ -1,5 +1,4 @@
-## Hi there 👋
-
-<!--
-THis is for a class demo
--->
+Name: Jose Gallegos
+Major: Computer Science
+Project One: Burn rate 
+Project Two: 
